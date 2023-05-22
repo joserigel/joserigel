@@ -3,7 +3,7 @@
 
 My current Tech Stack:
 - WPF
-- MySQL
+- MongoDB
 - Node.js
 - Express.js
 - React
